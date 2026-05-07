@@ -26,16 +26,7 @@
 上传到 GitHub 后，raw 链接通常为：
 
 ```text
-https://raw.githubusercontent.com/ManSold/JCR-CAS-2025-table/main/literature_rank_tables/CAS_2025.csv
-https://raw.githubusercontent.com/ManSold/JCR-CAS-2025-table/main/literature_rank_tables/JCR_2025.csv
+https://raw.githubusercontent.com/ManSold/JCR-CAS-2025-table/refs/heads/main/JCR_2025.csv
+https://raw.githubusercontent.com/ManSold/JCR-CAS-2025-table/refs/heads/main/CAS_2025.csv
 ```
 
-## 在“工作流程与分类规则.txt”中填写
-
-```text
-CAS_2025.csv：
-https://raw.githubusercontent.com/ManSold/JCR-CAS-2025-table/main/literature_rank_tables/CAS_2025.csv
-
-JCR_2025.csv：
-https://raw.githubusercontent.com/ManSold/JCR-CAS-2025-table/main/literature_rank_tables/JCR_2025.csv
-```
